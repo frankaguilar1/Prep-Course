@@ -1,0 +1,10 @@
+#eje7 {
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(43, 8, 86);
+    position: relative;
+    background-color: rgb(113, 39, 39);
+    display: flex;
+  }

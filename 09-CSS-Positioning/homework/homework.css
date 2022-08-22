@@ -60,6 +60,19 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 }
 
 #ejercicioSiete{
+    display: flex;
     flex-flow: row-reverse;
     flex-flow: column-reverse;
+    align-items: center;
+}
+#elementoCuatro{
+    display: flex;
+    flex-flow:wrap-reverse;
+    align-self: flex-end;
+}
+#elementoTres{
+    display: flex;
+    align-items: center;
+    align-self: baseline;
+    
 }
